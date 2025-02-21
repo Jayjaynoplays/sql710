@@ -1,3 +1,7 @@
+# ⚠️ This repo is deprecated, using [this repo](https://github.com/jaydenhnguyen/dad-personal-note) for a complete version
+
+---
+
 # Pages, Extents, and Log Files - W3
 ## Page
 - DB stores all data in a **Data Pages** that have **8Kb** each, and this is **immutable**.
